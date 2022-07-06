@@ -1,0 +1,7 @@
+2022-07-06 10:04:24,636 - INFO - Instabot Started
+2022-07-06 10:04:51,324 - INFO - PRE-LOGIN FLOW!... 
+2022-07-06 10:04:53,648 - ERROR - Request returns 400 error!
+2022-07-06 10:04:53,649 - INFO - Instagram's error message: Invalid Parameters
+2022-07-06 10:04:53,651 - INFO - Error type: missing_parameters
+2022-07-06 10:04:53,651 - INFO - Username or password is incorrect.
+2022-07-06 10:05:18,716 - CRITICAL - Not logged in!
